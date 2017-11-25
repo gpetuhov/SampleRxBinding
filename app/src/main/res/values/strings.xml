@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SampleRxBinding</string>
+    <string name="button_label">Press me</string>
+</resources>
